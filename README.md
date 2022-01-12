@@ -15,21 +15,21 @@ Localiza-se na pasta /Arquivos para análise
 
 
 Buscamos as seguintes informações:
-*Valor Total da Folha Salarial -> Gasto total com salários de funcionários pela empresa
-*Faturamento da empresa
-*Porcentagem de funcionários que já fechou algum contrato
-*Total de contratos que cada área da empresa já fechou
-*Total de funcionarios por área
-*Ticket medio mensal dos contratos
+- Valor Total da Folha Salarial -> Gasto total com salários de funcionários pela empresa
+- Faturamento da empresa
+- Porcentagem de funcionários que já fechou algum contrato
+- Total de contratos que cada área da empresa já fechou
+- Total de funcionarios por área
+- Ticket medio mensal dos contratos
 
 A resolução está na pasta /Resultados
 
 
 
-TECNOLOGIAS
-*Python 3.10.0
-*Pandas
-*matplotlib
-*openpyxl (para usar na engine: linha 14)
-*SO: windows 10
+*TECNOLOGIAS*
+- Python 3.10.0
+- Pandas
+- matplotlib
+- openpyxl (para usar na engine: linha 14)
+- SO: windows 10
 
