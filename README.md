@@ -1,4 +1,4 @@
-- SOBRE
+SOBRE
 - Este mini projeto de Analise de Dados tem como objetivo o estudo com DataFrames usando Pandas.
 O método do projeto soluciona exclusivamente questões de seus arquivos, sendo assim, usado apenas para leitura e estudos.
 Temos em mãos 3 arquivos com dados fundamentais de uma empresa X, contendo informaçoes sobrecadastro de clientes, planos
